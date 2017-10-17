@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+
+header {
+  background-color: black;
+  color: white;
+  text-shadow: 0 0 10px red;
+  height: 5em;
+  padding: 0.4em;
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 10px;
+  width: 100;
+}
+
+body
+{
+
+
+}
+
+html {
+	background-image: url(http://efdreams.com/data_images/dreams/paper/paper-12.jpg);
+	background-size: cover; /*covert de hele pagina met een plaatje */
+	background-attachment: fixed; /*Laat de background staan */
+  text-align: center;
+}
+
+#container{
+  background-color: #d9d9d9;
+  width: 800px;
+  height: 550px;
+  margin: auto;
+  /*
+  display: grid;
+  grid-template-columns: auto 600px auto;
+  grid-template-rows: auto auto auto;
+  */
+}
+
+/*
+#problem{
+  grid-row: 1;
+  grid-column: 2 /3;
+  background-color: white;
+  font-size = 98px;
+}
+
+#answer{
+  grid-row: 2;
+  grid-column: 2 /3;
+  background-color: lightgray;
+}
+
+#feedback{
+  grid-row: 3;
+  grid-column: 2 /3;
+  background-color: gray;
+}
+
+#score{
+  grid-row: 2;
+  grid-column: 3;
+  background-color: darkgray;
+}
+
+#level{
+  grid-row: 3;
+  grid-column: 3;
+  background-color: #4d4d4d;
+}
+*/
